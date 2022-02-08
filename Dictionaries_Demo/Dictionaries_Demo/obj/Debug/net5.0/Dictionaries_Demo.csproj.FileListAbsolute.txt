@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\bin\Debug\net5.0\Dictionaries_Demo.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\bin\Debug\net5.0\Dictionaries_Demo.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\bin\Debug\net5.0\Dictionaries_Demo.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\bin\Debug\net5.0\Dictionaries_Demo.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\bin\Debug\net5.0\Dictionaries_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\bin\Debug\net5.0\ref\Dictionaries_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\bin\Debug\net5.0\Dictionaries_Demo.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\ref\Dictionaries_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Dictionaries_Demo\Dictionaries_Demo\obj\Debug\net5.0\Dictionaries_Demo.genruntimeconfig.cache
